@@ -1,0 +1,15 @@
+id: 01a11236-7f1b-71f9-a551-7540729e32d5
+version: 1
+name: Local Mock
+slug: new-mock-f60ae
+enableSession: true
+protocol: http
+port: 4500
+autoRestartOnChange: true
+logging:
+  level: verbose
+  showBody: true
+scenarios:
+  - name: default
+    path: ./default.js
+    default: true

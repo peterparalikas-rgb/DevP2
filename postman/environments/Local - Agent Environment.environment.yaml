@@ -1,0 +1,5 @@
+name: Local - Agent Environment
+values:
+  - key: baseUrl
+    value: ''
+color: 120

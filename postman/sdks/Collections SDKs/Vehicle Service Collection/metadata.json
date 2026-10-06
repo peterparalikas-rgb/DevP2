@@ -1,0 +1,84 @@
+{
+  "entityId": "0dA9ecfe9Beeca4fbb21D164",
+  "entityType": "collections",
+  "buildId": 23073,
+  "createdAt": "2026-10-06T17:32:52.305Z",
+  "downloads": [
+    {
+      "language": "python",
+      "status": "success",
+      "createdAt": "2026-10-06T17:32:52.313Z",
+      "link": "https://us-prod-sdk-gen-api-code-gen-uploads.s3.us-east-1.amazonaws.com/744d8982-79bd-44a5-99f6-7fd5c7f00d54/vehicle-service-collection-sdk-python-1.0.0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LJBU7IBANRPJT%2F20261006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261006T173257Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDEaCXVzLWVhc3QtMSJHMEUCIAmY7a04iW8UeMTFeVH8NhiE5%2FN%2FBJzx3w3Lp5N2naUbAiEA%2FlsChqh6eDzKv0dQVsjMloVBChOoFnDn8Cw%2F9Y2nVeoqnAUI%2Bf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjM2NTIxNTgiDKjWh2B3F1T3I4As6yrwBNtw6DA43tcRKZZH6H7wRsI2n2pLUYIUm8PuCCHEsUxaSNzGFAXuJqqqzAlIBM6aaw1dCqb%2Fjjk3le1dd0Ub53lsSmQm%2B4bcbbQbjINKPB0OmAQmeNIm%2FzrfefY4magqeNjhare1tPcdfvcmhFo4zvgXRexkYng9vqSv7OQPWhTH7nzOGdForPpmBaEI3J5oQLIv1HyOo2PVh5fniusqCsv8sSKL7L2hInjivSvyF2gcLZuS9PZkfvFiaPCcgBHdkb0sposKkSFARoZ7NUEWmV6ddSIvdWFUC7i5TD7PHfh4NSDTuZwyS%2B93wJjIWL8R0FDZvtpta6JnA8%2B4T1%2B7ye8eXZZ4nnvzHexqXOJTO%2BYCZgMku7Kr5kO2VX7GcL8pSWMQvhmdGT97qqaEkK1HUVIfKNlsbD1x6NJhGpFK4%2FtkPJea1KTvCFrlVRK%2BrKkE%2BfjKOaSxrxMR3o%2FMwY%2B%2FPFBZ84LHjT5OQXpIFeKfUEMQ2qqMWdHTGHVdKv8O63Lwmd%2BTW7lOCq1maugC%2BJqks%2FKrbVa9CjPSod7XZELlMGBNbvjTo2mRy1O9JmGGuYHm6zk%2FEWY5SYb0p6roLUE8gnz7IYV%2FZKPgi8l3mbX7Oq1VUlCWsw3N3Y8RYrnnHotvT6CBltP2AzC6TVL1vRWLNw7F7sc6lbCYDzrmjdybPOrVyxsMd4P0em2D%2B6NeLsK55GETPBE0JmIWSto1HxZ443jXNbqSb5yOViKcCWBl6lfz1UoCCYmzuul48hJFio%2B8fH%2B5lnpw9WRV4JWt944cmGj8QCLnNJKy5XzZRCUOyLnL9SuPkib2cL4yaaf9%2FCNzbjCYzpTWBjqZAXXwXlaXvfonxX3pIPUu3LtZN36CDajCb9eDv%2BlQCG%2B3Xw%2F3Sd7u4tQ8ZDJGVHIq68EjQCtJTd5icbURYgWefHoDjz2oAxcZSUvA%2BSD2s74BIiJzqS3nFyLq5gZHf9rcCe40qyNjxuh%2FQrV2qiTFsEB47zOHttWUhi%2Bo9%2B5jgS0HFUNZWSSKXNfsazZReNTPzeN7NRXugAZIlw%3D%3D&X-Amz-Signature=bd20846fb3072afa4dd4d0e442d4395af79079e192cc3568f858b7e40315d02b&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "contentHash": "e57467eca32988f1012329042d334d518ee839635641977d1450387a390e8538",
+      "logs": [
+        {
+          "message": "Request \"Create a vehicle\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Create a vehicle",
+          "createdAt": "2026-10-06T17:32:53.630Z"
+        },
+        {
+          "message": "Request \"Retrieve a vehicle\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Retrieve a vehicle",
+          "createdAt": "2026-10-06T17:32:53.630Z"
+        },
+        {
+          "message": "Request \"Update a collection\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Update a collection",
+          "createdAt": "2026-10-06T17:32:53.630Z"
+        },
+        {
+          "message": "Request \"Delete a vehicle\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Delete a vehicle",
+          "createdAt": "2026-10-06T17:32:53.630Z"
+        },
+        {
+          "message": "Request \"Get all vehicles\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Get all vehicles",
+          "createdAt": "2026-10-06T17:32:53.630Z"
+        },
+        {
+          "message": "Mapped API: 1 service, 5 operations, 1 model, 1 auth scheme.",
+          "severity": "INFO",
+          "path": null,
+          "createdAt": "2026-10-06T17:32:53.630Z"
+        },
+        {
+          "message": "Mapped models: 1.",
+          "severity": "INFO",
+          "path": null,
+          "createdAt": "2026-10-06T17:32:53.630Z"
+        },
+        {
+          "message": "Mapped services: 1 service, 5 operations.",
+          "severity": "INFO",
+          "path": null,
+          "createdAt": "2026-10-06T17:32:53.630Z"
+        },
+        {
+          "message": "Authentication schemes: 1.",
+          "severity": "INFO",
+          "path": null,
+          "createdAt": "2026-10-06T17:32:53.630Z"
+        },
+        {
+          "message": "Generating Python SDK.",
+          "severity": "INFO",
+          "path": null,
+          "createdAt": "2026-10-06T17:32:53.630Z"
+        },
+        {
+          "message": "Rendered 58 pre-delivery SDK files.",
+          "severity": "INFO",
+          "path": null,
+          "createdAt": "2026-10-06T17:32:53.630Z"
+        }
+      ]
+    }
+  ],
+  "sdkName": "vehicle-service-collection-sdk"
+}
